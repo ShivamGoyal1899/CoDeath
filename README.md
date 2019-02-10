@@ -1,2 +1,2 @@
 # CoDeath
-CoDeath Blog
+CoDeath Blog by Shivam Goyal
